@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hola 👋
+
+Mi nombre es Cristian Cisternas y soy desarrollador de software con experiencia construyendo aplicaciones web para industrias de Banca, Auditoría y Educación. Durante la pandemia, y con el fin de enfrentar nuevos desafíos, los tiempos libres los he dedicado a hacer cursos online de React JS, React Native, Node JS y Node JS. Aquellos ejercicios que he desarrollado en los curos y cualquier otra idea la compartiré en éste repositorio
 
 <!--
 **flakorules/flakorules** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
